@@ -20,4 +20,4 @@ _Note: This repository contains slides and code samples for the lectures I am te
 
 #### Week 7 (1.3.2021) - Week 7.1 Intro to latent spaces and VAEs
 
-#### Week 9 (15.3.2021) - Week 9.1 Image to Image Models
+#### Week 9 (15.3.2021) - Week 9.1 Image to Image Models (pix2pix, CycleGAN, style transfer)
