@@ -10,7 +10,11 @@ _Note: This repository contains slides and code samples for the lectures I am te
 
 ---
 
-#### Week 5 (15.2.2021) - Week 5.1 Classifying Sequences
+#### Week 5 (15.2.2021) - Week 5.1 Classifying Sequences // Practicum: sentiment analysis - [slides pdf](https://github.com/previtus/cci_AI_for_the_Media/blob/main/week05_sequential-classification/aim05_sequential-classification.pdf)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/previtus/cci_AI_for_the_Media/main/week05_sequential-classification/aim05_slide.gif" width="760">
+</p>
 
 #### Week 6 (22.2.2021) - Week 6.1 Generating Sequences
 
