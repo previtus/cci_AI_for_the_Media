@@ -1,7 +1,3 @@
-# cci_AI_for_the_Media
-UAL, CCI - MSc course: 20/21 Artificial Intelligence for the Media
-
-
 # Artificial Intelligence for the Media (20/21)
 
 _Note: This repository contains slides and code samples for the lectures I am teaching for the "AI for the Media" course of 20/21. For the rest of the study materials, please check the Moodle page._
