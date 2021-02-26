@@ -27,6 +27,13 @@ Practical session notebook: [Twitter sentiment analysis](https://github.com/prev
 
 Practical session notebook: [Interactive Music Generation with LSTM models](https://github.com/previtus/cci_AI_for_the_Media/blob/main/week06_generating-sequences/aim06_generative_music.ipynb)
 
-#### Week 7 (1.3.2021) - Week 7.1 Intro to latent spaces and VAEs
+#### Week 7 (1.3.2021) - Week 7.1 Intro to latent spaces and VAEs - [slides pdf](https://github.com/previtus/cci_AI_for_the_Media/blob/main/week07_latent-spaces/aim07_latent-spaces.pdf)
+
+<p align="center">
+<img src="https://github.com/previtus/cci_AI_for_the_Media/blob/main/week07_latent-spaces/aim07_slide.gif" width="760">
+</p>
+
+Practical session notebook: [Convolutional Variation AutoEncoder](https://github.com/previtus/cci_AI_for_the_Media/blob/main/week07_latent-spaces/aim07_convolutional_VAE.ipynb)
+
 
 #### Week 9 (15.3.2021) - Week 9.1 Image to Image Models (pix2pix, CycleGAN, style transfer)
