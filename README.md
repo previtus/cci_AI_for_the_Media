@@ -36,4 +36,11 @@ Practical session notebook: [Interactive Music Generation with LSTM models](http
 Practical session notebook: [Convolutional Variation AutoEncoder](https://github.com/previtus/cci_AI_for_the_Media/blob/main/week07_latent-spaces/aim07_convolutional_VAE.ipynb)
 
 
-#### Week 9 (15.3.2021) - Week 9.1 Image to Image Models (pix2pix, CycleGAN, style transfer)
+#### Week 9 (15.3.2021) - Week 9.1 Image to Image Models (pix2pix, CycleGAN, style transfer) - [slides pdf](https://github.com/previtus/cci_AI_for_the_Media/blob/main/week09_domain-to-domain/aim09_domain-to-domain.pdf)
+
+<p align="center">
+<img src="https://github.com/previtus/cci_AI_for_the_Media/blob/main/week09_domain-to-domain/aim09_slide.gif" width="760">
+</p>
+
+Practical session notebook: [pix2pix training with custom datasets](https://github.com/previtus/cci_AI_for_the_Media/blob/main/week09_domain-to-domain/aim09_pix2pix_keras.ipynb)
+
